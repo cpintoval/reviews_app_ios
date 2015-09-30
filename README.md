@@ -1,4 +1,4 @@
-Reviews App
+Reviews App (iOS Version)
 ===========
 
 Review all the things you want, from movies to restaurants, from places to food, whatever you can imagine, go ahead and review it! Share it to the world.
